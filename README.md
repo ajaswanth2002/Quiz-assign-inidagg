@@ -22,9 +22,6 @@ Our quiz website is built using the following technologies:
 - CSS
 - JavaScript
 
-## Contributors
-This project was developed by Jaswanth.
-
 ## Feedback and Support
 We value your feedback! If you encounter any issues, have suggestions for improvement, or would like to report a bug, please reach out to us at ajaswanth2002@gmail.com
 
