@@ -11,7 +11,7 @@ Welcome to our quiz website! This web application allows users to participate in
 ## Getting Started
 To use our quiz website, follow these simple steps:
 
-1. Visit the website by clicking on the following link: [YourQuizWebsite.com](insert_link_here)
+1. Visit the website by clicking on the following link: https://ajaswanth2002.github.io/Quiz-assign-inidagg/(insert_link_here)
 2. Click the "Start Quiz" button to begin the quiz.
 3. Answer each question within the 30-second time limit.
 4. If you wish to start over, click the "Reset Quiz" button.
