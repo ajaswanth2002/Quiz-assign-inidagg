@@ -26,7 +26,7 @@ Our quiz website is built using the following technologies:
 This project was developed by [Your Name].
 
 ## Feedback and Support
-We value your feedback! If you encounter any issues, have suggestions for improvement, or would like to report a bug, please reach out to us at [your_email@example.com].
+We value your feedback! If you encounter any issues, have suggestions for improvement, or would like to report a bug, please reach out to us at ajaswanth2002@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
