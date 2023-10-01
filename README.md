@@ -11,7 +11,7 @@ Welcome to our quiz website! This web application allows users to participate in
 ## Getting Started
 To use our quiz website, follow these simple steps:
 
-1. Visit the website by clicking on the following link: https://ajaswanth2002.github.io/Quiz-assign-inidagg/(insert_link_here)
+1. Visit the website by clicking on the following link: https://ajaswanth2002.github.io/Quiz-assign-inidagg/
 2. Click the "Start Quiz" button to begin the quiz.
 3. Answer each question within the 30-second time limit.
 4. If you wish to start over, click the "Reset Quiz" button.
@@ -28,9 +28,6 @@ This project was developed by Jaswanth.
 ## Feedback and Support
 We value your feedback! If you encounter any issues, have suggestions for improvement, or would like to report a bug, please reach out to us at ajaswanth2002@gmail.com
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 Feel free to customize this README file with your actual website link, your name, and contact information.
